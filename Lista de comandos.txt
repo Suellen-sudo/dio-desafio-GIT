@@ -1,0 +1,6 @@
+git clone - clona o repositório 
+git add . - adiciona arquivos ao repositório
+git commit -m - comita o respositório
+git push - publica o commit
+git status - verifica o status do repositório
+Se não lembrar só dar um "git help -a" que resolve
